@@ -31,8 +31,8 @@ Referenced for model architecture : https://github.com/WZMIAOMIAO/deep-learning-
 
 ## Benchmarks
 
-| Precision  | Recall | f1_score | test_acc |avg_inferance_time |
-| ---------- | ------ | ------------- | ------------- |------------- |
-| Content C  | Conte  | Content Cell  | Content Cell  |Content Cell  |
-| Content C  | Cont   | Content Cell  | Content Cell  |Content Cell  |
-| Content C  | Cont   | Content Cell  | Content Cell  | Content Cell  |
+| Precision  | Precision | Recall | f1_score | test_acc | avg_inferance_time (sec) |
+| ---------- | ----------|------ | --------- | -------- |------------------------- |
+| EfficentNet_b0 | 0.970 | 0.966  | 0.968    | 0.973    | 0.009  |
+| VGG-16 | Cont  | 0.937 | 0.991  | 0.963    | 0.968    | 0.008  |
+| ShuffleNetv2   | 0.951 | 0.979  | 0.965    | 0.970    | 0.005  |
