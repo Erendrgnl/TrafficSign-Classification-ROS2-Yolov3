@@ -30,3 +30,9 @@ Referenced for model architecture : https://github.com/WZMIAOMIAO/deep-learning-
 ![shufflenet_v2_result](https://user-images.githubusercontent.com/37477289/155380637-fef51d33-fb60-4075-83b0-2e07710d0471.png)
 
 ## Benchmarks
+
+| Precision  | Recall | f1_score | test_acc |avg_inferance_time |
+| ---------- | ------ | ------------- | ------------- |------------- |
+| Content C  | Conte  | Content Cell  | Content Cell  |Content Cell  |
+| Content C  | Cont   | Content Cell  | Content Cell  |Content Cell  |
+| Content C  | Cont   | Content Cell  | Content Cell  | Content Cell  |
